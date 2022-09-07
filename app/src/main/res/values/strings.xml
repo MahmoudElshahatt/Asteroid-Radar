@@ -2,7 +2,7 @@
     <string name="app_name">Asteroid Radar</string>
 
     <string name="next_week_asteroids">Asteroids for a week</string>
-    <string name="today_asteroids">Asteroids for a today</string>
+    <string name="today_asteroids">Asteroids for today</string>
     <string name="saved_asteroids">View all asteroids</string>
     <string name="close_approach_data_title">Close approach date</string>
     <string name="absolute_magnitude_title">Absolute magnitude</string>
