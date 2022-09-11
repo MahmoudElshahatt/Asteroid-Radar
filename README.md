@@ -1,3 +1,3 @@
 # Description
 
-The Shoe Store is the 2nd project in Udacity FWD program.
+The Asteroid Radar is the 2nd project in Udacity FWD program.
